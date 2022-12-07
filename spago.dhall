@@ -1,6 +1,6 @@
 { name = "halogen-router"
 , license = "MIT"
-, repository = "https://github.com/katsujukou/purescript-halogen-router"
+, repository = "https://github.com/deemp/purescript-halogen-router"
 , dependencies =
   [ "aff"
   , "effect"
